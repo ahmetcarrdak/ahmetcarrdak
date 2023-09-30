@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmetcan Gazebo. i have been developing projects in the field of software for 5 years. i have been engaged in activities in the field of web design for 5 years, web software for 3 years, embedded system for 2 years, mobile development for 1 year. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻
+Hi, I'm Ahmetcan Çardak. i have been developing projects in the field of software for 5 years. i have been engaged in activities in the field of web design for 5 years, web software for 3 years, embedded system for 2 years, mobile development for 1 year. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻
 
 
 ### Hi there! 👋
@@ -11,7 +11,7 @@ Hi, I'm Ahmetcan Gazebo. i have been developing projects in the field of softwar
 ## 📈 Github Status
 
 
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
 
 <br />
