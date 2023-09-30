@@ -12,7 +12,7 @@ Hi, I'm Ahmetcan Çardak. i have been developing projects in the field of softwa
 
 
 <img height="180px" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img height="180px" aling="" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
+<img height="180px" aling="right" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
 
 <br />
 <br />
