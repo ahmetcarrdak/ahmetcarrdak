@@ -2,6 +2,22 @@
 Hi, I'm Ahmetcan Gazebo. i have been developing projects in the field of software for 5 years. i have been engaged in activities in the field of web design for 5 years, web software for 3 years, embedded system for 2 years, mobile development for 1 year. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻
 
 
+### Hi there! 👋
+
+
+![](https://komarev.com/ghpvc/?username=0xAli0&color=yellow)
+
+
+## 📈 Github Status
+
+
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
+
+<br />
+<br />
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MjJYYjqAAs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ercanygt1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamygt/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamygt) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ercanygt1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamygt_dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamygt) 
 
