@@ -30,3 +30,5 @@ As a creative & passionate developer and fast learner with detail and high quali
 - Bootstrap
 - Web3 integration
 - Node/Python
+
+- Flutter Dart Kotlin Python C++ C# C PHP TypeScript Google Cloud Firebase Angular.js NodeJS React Native React ANDROID IOSNPM Laravel JWT Django Apache Nginx MySQL MariaDB MongoDB Adobe Photoshop Canva Keras Pandas TensorFlow LINUX Arduino Gradle Postman
