@@ -11,8 +11,8 @@ Hi, I'm Ahmetcan Çardak. i have been developing projects in the field of softwa
 ## 📈 Github Status
 
 
-<img align="left" height="180px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
+<img align="left" height="180px" style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcarrdak&exclude_repo=ahmetcarrdak.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="180px" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=ahmetcarrdak&sshow_icons=true&theme=radical&count_private=true">
 
 <br />
 <br />
