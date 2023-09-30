@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmetcan Çardak. i have been developing projects in the field of software for 5 years. i have been engaged in activities in the field of web design for 5 years, web software for 3 years, embedded system for 2 years, mobile development for 1 year. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻
+Hi, I'm Ahmetcan Çardak. i have been developing projects in the field of software for 5 years. I have been engaged in activities in the field of web design for 5 years, web software for 3 years, embedded system for 2 years, mobile development for 1 year. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻
 
 
 ### Hi there! 👋
