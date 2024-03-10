@@ -1,26 +1,25 @@
-name: My Workflow
+name: Auto Commit
+
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  schedule:
+    - cron: '0 0 * * *' # Her gün 00:00'da çalıştır
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
+      - name: Set up Git
+        run: |
+          git config --global user.name "ahmetcarrdak"
+          git config --global user.email "ahmetcarrdak@icloud.com"
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run tests
-        run: npm test
+      - name: Create commit
+        run: |
+          echo "Auto commit" >> commit.txt
+          git add commit.txt
+          git commit -m "Auto commit"
+          git push
