@@ -1,7 +1,7 @@
 <img src="https://cdn.vectorstock.com/i/preview-1x/22/93/web-coding-and-software-development-concept-banner-vector-42172293.jpg" width="100%" height="350"/>
 
 <h1 align="center">Hi 👋, I'm Ahmet Çardak</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcarrdak&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcarrdak" /> </p>
+<p align="left"> ![](https://komarev.com/ghpvc/?ahmetcarrda) </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetcarrdak" alt="ahmetcarrdak" /></a> </p>
 
