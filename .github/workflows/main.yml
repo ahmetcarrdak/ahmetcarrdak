@@ -1,25 +1,14 @@
-name: Auto Commit
+# .github/workflows/main.yml
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Her gün 00:00'da çalıştır
+on: push
 
 jobs:
-  build:
+  single-commit:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
-
-      - name: Set up Git
-        run: |
-          git config --global user.name "ahmetcarrdak"
-          git config --global user.email "ahmetcarrdak@icloud.com"
-
-      - name: Create commit
-        run: |
-          echo "Auto commit" >> commit.txt
-          git add commit.txt
-          git commit -m "Auto commit"
-          git push
+    - uses: bcanseco/github-contribution-graph-action@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GIT_EMAIL: ahmetcarrdak@icloud.com
