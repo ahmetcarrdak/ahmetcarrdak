@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cardaksoft.com.tr](https://cardaksoft.com.tr)
 
-- 💬 Ask me about **Hi, I'm Ahmetcan Çardak. I have been developing projects in the field of software for 5 years. I have been engaged in activities in the field of web design for 5 years, web software for 3 years, and mobile development for 2 years. I am happy to cooperate. I would like to play with you and improve my own experience 🚀🌍💻**
+- 💬 Ask me about **Hi, I’m Ahmetcan Çardak. I have extensive experience in web design, software development, and API projects. I am passionate about creating innovative solutions and developing user-centered projects. By staying up-to-date with the latest technology trends, I strive to achieve high-quality results in every project. I enjoy continuously improving myself through collaborations and creative processes. 🚀🌍💻**
 
 - 📫 How to reach me **ahmetcarrdak@icloud.com**
 
