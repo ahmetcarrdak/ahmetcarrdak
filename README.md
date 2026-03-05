@@ -40,9 +40,6 @@
 </p>
 
 <!-- Visuals (avoid fragile stats cards) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmetcarrdak&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetcarrdak&hide_border=true&area=true" alt="activity graph" />
