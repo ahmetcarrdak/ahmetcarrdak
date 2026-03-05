@@ -1,7 +1,7 @@
 <!-- Minimal • Visual • Backend-focused (Python/.NET) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Ahmetcan%20%C3%87ardak&fontAlignY=65&desc=Backend%20Developer%20%7C%20Python%20%2B%20.NET&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Ahmetcan%20%C3%87ardak&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%2B%20.NET&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
